@@ -1,0 +1,4 @@
+sv_cheats 1
+alias slowmo_on "bind mouse3 slowmo_off; host_timescale 0.22"
+alias slowmo_off "bind mouse3 slowmo_on; host_timescale 1"
+bind mouse3 slowmo_on
